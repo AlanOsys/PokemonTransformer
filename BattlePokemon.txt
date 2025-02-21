@@ -1,0 +1,450 @@
+Arctovish @ Focus Sash
+Ability: Vital Spirit
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 0 Spe
+Impish Nature 
+- Skill Swap
+- Fake Out
+- Icy Wind
+- Ally Switch
+
+Crobat @ Focus Sash
+Ability: Unburden
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 136 Spe
+Modest Nature 
+- Coaching
+- Close Combat
+- Poison Jab
+- Brave Bird
+
+Braviary @ Focus Sash
+Ability: Speed Boost
+EVs: 44 HP / 0 Atk / 124 Def / 0 SpA / 60 SpD / 0 Spe
+Jolly Nature 
+- Coaching
+- Protect
+- Heat Wave
+- Close Combat
+
+Gallade @ Focus Sash
+Ability: Psychic Surge
+EVs: 0 HP / 4 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
+Timid Nature 
+- Helping Hand
+- Expanding Force
+- Trick Room
+- Imprison
+
+Weezing @ Shuca Berry
+Ability: Neutralizing Gas
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Timid Nature 
+- Sludge Bomb
+- Protect
+- Taunt
+- Will O Wisp
+
+Appletun @ Life Orb
+Ability: Hustle
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
+Adamant Nature 
+- Dragon Rush
+- Dual Wingbeat
+- Acrobatics
+- Grav Apple
+
+Pheromosa @ Focus Sash
+Ability: Prankster
+EVs: 5 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 0 Spe
+Hardy Nature 
+- Protect
+- Sunny Day
+- Coaching
+- Quick Guard
+
+Stakataka @ Custap Berry
+Ability: Sturdy
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Relaxed Nature 
+- Iron Head
+- Protect
+- Earthquake
+- Body Press
+
+Reshiram @ Assault Vest
+Ability: Shell Armor
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 0 Spe
+Calm Nature 
+- Shell Trap
+- Flash Cannon
+- Wide Guard
+- Draco Meteor
+
+Dedenne @ Aguav Berry
+Ability: Cheek Pouch
+EVs: 0 HP / 12 Atk / 0 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature 
+- Tearful Look
+- Substitute
+- Nuzzle
+- Discharge
+
+Accelgor @ Focus Sash
+Ability: Unburden
+EVs: 132 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
+Timid Nature 
+- Water Shuriken
+- U Turn
+- Yawn
+- Struggle Bug
+
+Crobat @ Focus Sash
+Ability: Inner Focus
+EVs: 252 HP / 0 Atk / 0 Def / 4 SpA / 0 SpD / 0 Spe
+Jolly Nature 
+- Absorb
+- Tailwind
+- Haze
+- Brave Bird
+
+Swoobat @ Wacan Berry
+Ability: Oblivious
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 0 Spe
+Bold Nature 
+- Fire Blast
+- Expanding Force
+- Trick Room
+- Muddy Water
+
+Ho-oh @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Timid Nature 
+- Quick Guard
+- Tailwind
+- Feint
+- Brave Bird
+
+Hitmonlee @ Focus Sash
+Ability: Sand Rush
+EVs: 252 HP / 0 Atk / 100 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature 
+- Quick Guard
+- Rock Slide
+- Psychic Fangs
+- Iron Head
+
+Virizion @ Life Orb
+Ability: Grassy Surge
+EVs: 156 HP / 0 Atk / 4 Def / 0 SpA / 4 SpD / 0 Spe
+Careful Nature 
+- Stone Edge
+- Protect
+- High Horsepower
+- Wood Hammer
+
+Articuno @ Weakness Policy
+Ability: Volt Absorb
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Brave Nature 
+- Pluck
+- Stomping Tantrum
+- Icicle Crash
+- Bolt Beak
+
+Gallade @ Focus Sash
+Ability: Unseen Fist
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
+Jolly Nature 
+- Aqua Jet
+- Close Combat
+- Poison Jab
+- Surging Strikes
+
+Magnezone @ Weakness Policy
+Ability: Stalwart
+EVs: 252 HP / 0 Atk / 0 Def / 124 SpA / 0 SpD / 0 Spe
+Modest Nature 
+- Draco Meteor
+- Dark Pulse
+- Flash Cannon
+- Steel Beam
+
+Crobat @ Focus Sash
+Ability: Inner Focus
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
+Timid Nature 
+- Absorb
+- Tailwind
+- Haze
+- Brave Bird
+
+Coalossal @ Weakness Policy
+Ability: Steam Engine
+EVs: 4 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
+Modest Nature 
+- Meteor Beam
+- Protect
+- Heat Wave
+- Solar Beam
+
+Exeggutor @ Sitrus Berry
+Ability: Harvest
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Quiet Nature 
+- Skill Swap
+- Energy Ball
+- Giga Drain
+- Leech Seed
+
+Accelgor @ Focus Sash
+Ability: Effect Spore
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Jolly Nature 
+- Yawn
+- Spore
+- Moonblast
+- Perish Song
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
+Jolly Nature 
+- Stomping Tantrum
+- Rock Slide
+- Brick Break
+- Earthquake
+
+Jellicent @ Weakness Policy
+Ability: Water Absorb
+EVs: 0 HP / 252 Atk / 0 Def / 4 SpA / 0 SpD / 0 Spe
+Jolly Nature 
+- Fishious Rend
+- Protect
+- Freeze Dry
+- Icicle Spear
+
+Exeggutor @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 0 Spe
+Sassy Nature 
+- Ally Switch
+- Trick Room
+- Body Press
+- Iron Defense
+
+Kartana @ Assault Vest
+Ability: Beast Boost
+EVs: 0 HP / 252 Atk / 0 Def / 4 SpA / 0 SpD / 0 Spe
+Jolly Nature 
+- Aerial Ace
+- Giga Impact
+- Leaf Blade
+- Smart Strike
+
+Centiskorch @ Focus Sash
+Ability: Flame Body
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 4 Spe
+Timid Nature 
+- Bug Buzz
+- Heat Wave
+- Rage Powder
+- Struggle Bug
+
+Drapion @ Assault Vest
+Ability: Intimidate
+EVs: 4 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
+Timid Nature 
+- Acid Spray
+- Icy Wind
+- Surf
+- Aqua Jet
+
+Krookodile @ Focus Sash
+Ability: Inner Focus
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Adamant Nature 
+- Moonlight
+- Snarl
+- Foul Play
+- Yawn
+
+Mimikyu @ Weakness Policy
+Ability: Prism Armor
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
+Modest Nature 
+- Dragon Dance
+- Earthquake
+- Ally Switch
+- Sunsteel Strike
+
+Weezing @ Shuca Berry
+Ability: Neutralizing Gas
+EVs: 4 HP / 0 Atk / 0 Def / 36 SpA / 0 SpD / 160 Spe
+Timid Nature 
+- Sludge Bomb
+- Protect
+- Taunt
+- Will O Wisp
+
+Greedent @ Choice Scarf
+Ability: Skill Link
+EVs: 252 HP / 0 Atk / 0 Def / 4 SpA / 0 SpD / 0 Spe
+Jolly Nature 
+- Tail Slap
+- Triple Axel
+- Rock Blast
+- Bullet Seed
+
+Shiftry @ Coba Berry
+Ability: Chlorophyll
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
+Jolly Nature 
+- Solar Blade
+- Air Slash
+- Sucker Punch
+- Leaf Blade
+
+Mimikyu @ Power Herb
+Ability: Shadow Shield
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 0 SpD / 0 Spe
+Quiet Nature 
+- Moonlight
+- Moonblast
+- Moongeist Beam
+- Meteor Beam
+
+Hydreigon @ Assault Vest
+Ability: Levitate
+EVs: 4 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
+Timid Nature 
+- Draco Meteor
+- Earth Power
+- Dark Pulse
+- Flash Cannon
+
+Malamar @ Sitrus Berry
+Ability: Contrary
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 4 Spe
+Relaxed Nature 
+- Psycho Cut
+- Trick Room
+- Superpower
+- Lash Out
+
+Tyrantrum @ Choice Band
+Ability: Technician
+EVs: 4 HP / 0 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Adamant Nature 
+- Dual Wingbeat
+- U Turn
+- Superpower
+- Bullet Punch
+
+Talonflame @ Safety Goggles
+Ability: Super Luck
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 0 SpD / 0 Spe
+Quiet Nature 
+- Dazzling Gleam
+- Air Slash
+- Helping Hand
+- Follow Me
+
+Crobat @ Focus Sash
+Ability: Inner Focus
+EVs: 252 HP / 0 Atk / 0 Def / 52 SpA / 0 SpD / 4 Spe
+Careful Nature 
+- Absorb
+- Tailwind
+- Haze
+- Brave Bird
+
+Blacephalon @ Thick Club
+Ability: Lightning Rod
+EVs: 4 HP / 0 Atk / 252 Def / 0 SpA / 252 SpD / 0 Spe
+Adamant Nature 
+- Shadow Bone
+- Protect
+- Flare Blitz
+- Brick Break
+
+Terrakion @ Sitrus Berry
+Ability: Justified
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature 
+- Close Combat
+- Protect
+- Rock Slide
+- Bulldoze
+
+Salazzle @ Focus Sash
+Ability: Hunger Switch
+EVs: 244 HP / 0 Atk / 0 Def / 20 SpA / 0 SpD / 0 Spe
+Timid Nature 
+- Aura Wheel
+- Parting Shot
+- Seed Bomb
+- Swagger
+
+Ho-oh @ Life Orb
+Ability: Flame Body
+EVs: 4 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
+Timid Nature 
+- Heat Wave
+- Protect
+- Will O Wisp
+- Hurricane
+
+Orbeetle @ Focus Sash
+Ability: Shadow Tag
+EVs: 156 HP / 0 Atk / 0 Def / 0 SpA / 76 SpD / 0 Spe
+Timid Nature 
+- Volt Tackle
+- Fake Out
+- Volt Switch
+- Surf
+
+Heatran @ Weakness Policy
+Ability: Water Compaction
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 244 SpD / 0 Spe
+Modest Nature 
+- Shore Up
+- Earth Power
+- Giga Drain
+- Shadow Ball
+
+Scolipede @ Life Orb
+Ability: Speed Boost
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Adamant Nature 
+- Bug Bite
+- Bulldoze
+- Poison Jab
+- Megahorn
+
+Ferrothorn @ Leftovers
+Ability: Iron Barbs
+EVs: 212 HP / 0 Atk / 0 Def / 212 SpA / 0 SpD / 0 Spe
+Modest Nature 
+- Leech Seed
+- Protect
+- Body Press
+- Iron Defense
+
+Zekrom @ Weakness Policy
+Ability: Teravolt
+EVs: 248 HP / 0 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Adamant Nature 
+- Dragon Dance
+- Protect
+- Earth Power
+- Draco Meteor
+
+Bisharp @ Focus Sash
+Ability: Sand Rush
+EVs: 4 HP / 0 Atk / 244 Def / 0 SpA / 4 SpD / 0 Spe
+Jolly Nature 
+- Horn Drill
+- Brick Break
+- Earthquake
+- Iron Head
+
